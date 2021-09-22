@@ -7,11 +7,7 @@ function multiplication(a, b) {
 }
 
 function mystere(a, b) {
-<<<<<<< HEAD
-  return a + a + a;
-=======
   return b + b + b;
->>>>>>> origin/feature/mystere
 }
 
 function print(operation, a, b) {
